@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    color: gray;
+}
+
+p {
+    color: green;
+}
+
+section {
+    height: 200px;
+    width: 1140px;
+    color: antiquewhite;
+}
+
